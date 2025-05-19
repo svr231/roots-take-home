@@ -15,6 +15,8 @@
     "@roots-homes/prisma-schema-mls-system": "1.2.5",
     "@tanstack/react-query": "^5.62.2",
     "@tanstack/react-query-devtools": "^5.62.2",
+    "@vis.gl/react-mapbox": "^8.0.4",
+    "@vis.gl/react-maplibre": "^8.0.4",
     "axios": "^1.7.8",
     "mapbox-gl": "^3.11.1",
     "next": "15.3.1",
@@ -28,6 +30,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/mapbox-gl": "^3.4.1",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
