@@ -1,5 +1,10 @@
 'use client'
 
+/**
+ * @file page.tsx
+ * @description This file takes care of the landing page of the website. Being the first page that the user sees, I have directed them 
+ * towards the listings page to view the properties, and attached an image of the company logo/blurb found on the company website. 
+ */ 
 import { useRouter } from 'next/navigation'
 import Image from 'next/image'
 
